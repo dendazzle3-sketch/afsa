@@ -1,0 +1,6 @@
+{
+  "name": "Afsa Taj - Animated Romantic Journey",
+  "description": "A magical, interactive romantic animated website dedicated to Afsa Taj featuring floating hearts, niqabi character animations, memory gallery, ambient melodies, and custom interactive notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
